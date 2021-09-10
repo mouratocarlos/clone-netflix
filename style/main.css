@@ -69,8 +69,9 @@ header nav a:hover {
 }
 
 .main-movie .description {
-    margin-bottom: 50px;
+    margin-bottom: 40px;
     margin-top: 40px;
+    text-align: justify;
 }
 
 .button-main-movie {
@@ -92,4 +93,22 @@ header nav a:hover {
 
 .button-main-movie i {
     margin-right: 8px;
+}
+
+.container {
+    margin-left: 20px;
+}
+
+.main-movie .container {
+    width: 70%;
+}
+
+.carousel-films {
+    margin-top: 10px;
+}
+
+.box-film {
+    height: 100%;
+    width: 100%;
+    display: block;
 }
