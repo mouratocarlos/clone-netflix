@@ -8,3 +8,9 @@
         align-items: center;
     }
 }
+
+@media screen and (max-width: 1000px) {
+    .description {
+        width: 50%;
+    }
+}
